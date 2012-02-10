@@ -1,0 +1,9 @@
+-----------------------------------------------------
+Long Memory Filter
+-----------------------------------------------------
+
+Author : Wonsang You (you@ovgu.de)
+Date : 20 Feb 2012
+
+Description :
+It is the filter that generates a multivariate long memory process from a given set of inputs time series.
